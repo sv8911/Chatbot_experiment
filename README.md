@@ -16,7 +16,7 @@ This repo contains my experiments with three chatbot types:
 - `ai_chatbot.py`: AI chatbot using DialoGPT for generative replies.
 - `notebook.ipynb`: My original Jupyter Notebook with all experiments.(willadd)
 
-## Listed in requirements.txt:
+## Requirements:
 
 -nltk
 -scikit-learn
