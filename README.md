@@ -18,25 +18,28 @@ This repo contains my experiments with three chatbot types:
 
 ## Requirements:
 
--`nltk`
--`scikit-learn`
--`transformers`
--`torch`
--`tqdm`
+- nltk
+- scikit-learn
+- transformers
+- torch
+- tqdm
 
 ## Status
 I’m a beginner learning NLP and AI. This project is incomplete but growing as I add more features, intents, and polish. Suggestions are appreciated!
 
-What I’ve Learned
-`Basic text preprocessing with NLTK.`
-`Training ML models with Scikit-learn.`
-`Using pre-trained AI models with Transformers.`
 
+## What I’ve Learned
+
+- Basic text preprocessing with NLTK.
+- Training ML models with Scikit-learn.
+- Using pre-trained AI models with Transformers.
 
 ## Next Steps
-`Add more intents for better conversations.`
-`Improve AI responses with tuning.`
-`Create a simple UI (maybe with Streamlit).`
+
+- Add more intents for better conversations.
+- Improve AI responses with tuning.
+- Create a simple UI (maybe with Streamlit).
+
 
 
 
