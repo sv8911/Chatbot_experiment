@@ -16,15 +16,15 @@ This repo contains my experiments with three chatbot types:
 - `ai_chatbot.py`: AI chatbot using DialoGPT for generative replies.
 - `notebook.ipynb`: My original Jupyter Notebook with all experiments.(willadd)
 
-Listed in requirements.txt:
+## Listed in requirements.txt:
 
-nltk
-scikit-learn
-transformers
-torch
-tqdm (optional for progress bars)
+-nltk
+-scikit-learn
+-transformers
+-torch
+-tqdm 
 
-Status
+## Status
 I’m a beginner learning NLP and AI. This project is incomplete but growing as I add more features, intents, and polish. Suggestions are appreciated!
 
 What I’ve Learned
@@ -33,7 +33,7 @@ Training ML models with Scikit-learn.
 Using pre-trained AI models with Transformers.
 
 
-Next Steps
+## Next Steps
 Add more intents for better conversations.
 Improve AI responses with tuning.
 Create a simple UI (maybe with Streamlit).
