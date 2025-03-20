@@ -43,7 +43,7 @@ I’m a beginner learning NLP and AI. This project is incomplete but growing as 
 
 
 
-Thanks for checking out my work!
-
+Thanks for checking out my work! 
+Keep learning:) 
 
 
